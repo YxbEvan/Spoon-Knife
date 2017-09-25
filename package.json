@@ -1,0 +1,19 @@
+{
+  "name": "03",
+  "version": "1.0.0",
+  "description": "This repository is meant to provide an example for *forking* a repository on GitHub.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YxbEvan/Spoon-Knife.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YxbEvan/Spoon-Knife/issues"
+  },
+  "homepage": "https://github.com/YxbEvan/Spoon-Knife#readme"
+}
